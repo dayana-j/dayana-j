@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dayana-j
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ethics in Cybersecurity, Ethical Hacking, and more
+- 👀 I’m interested in Computer Science, Cybersecurity, and Business field.
+- 🌱 I’m currently in Computer Science 3.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: My personality type is INTP. 
 
