@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dayana-j
 - 👀 I’m interested in Computer Science, Cybersecurity, and Business field.
-- 🌱 I’m currently in Usable Securoty and Privacy.
+- 🌱 I’m interning at Amazon. I am working on the OpenSearch team.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: My personality type is INTP. 
 
